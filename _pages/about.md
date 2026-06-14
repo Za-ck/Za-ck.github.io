@@ -109,16 +109,18 @@ redirect_from:
 }
 </style>
 
-Hi, I am Chunkang Zhang (张淳慷). I obtained my M.Sc. degree from the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Le Sun](http://lsun.nlp.iscas.ac.cn/). I received my B.S. degree in Software Engineering (Elite Class) from [Wuhan University of Technology (WHUT)](https://english.whut.edu.cn/).
+Hi, I am Chunkang Zhang (张淳慷).  
+
+🎓 I obtained my M.Sc. degree from the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Le Sun](https://www.icip.org.cn/team/sunle/) and [Prof. Yaojie Lu](https://yaojie.lu/). I received my B.S. degree in Software Engineering (Elite Class) from [Wuhan University of Technology (WHUT)](https://english.whut.edu.cn/).
 
 
-My research interests include **Agentic Memory**, **Retrieval-Augmented Generation (RAG)**, **Long-Context Comprehension**, and **LLM Alignment**. I work closely with [Jialong Tang](https://tangjialong.github.io/) and [Chulun Zhou](https://encyclomen.github.io/) at [Qwen](https://qwenlm.github.io/), Alibaba. I also enjoyed close collaboration with [Mo Yu](https://sites.google.com/site/moyunlp/) at Hunyuan, Tencent.
+🔬 My research interests include **Agentic Memory**, **Retrieval-Augmented Generation (RAG)**, **Long-Context Comprehension**, and **LLM Alignment**. I work closely with [Jialong Tang](https://tangjialong.github.io/) and [Chulun Zhou](https://encyclomen.github.io/) at Qwen, Alibaba. I also enjoyed close collaboration with [Mo Yu](https://sites.google.com/site/moyunlp/) at Hunyuan, Tencent.
 
 
-I believe that true intelligence requires not just reasoning, but **remembering** — forming structured, evolving knowledge from raw experience. My ongoing work centers on **OmniModal Memory**: extending agentic memory beyond text into a unified, modality-agnostic framework where agents can perceive, consolidate, and reason across language, vision, and structured data.
+💡 I believe that true intelligence requires not just reasoning, but **remembering** — forming structured, evolving knowledge from raw experience. My ongoing work centers on **OmniModal Memory**: extending agentic memory beyond text into a unified, modality-agnostic framework where agents can perceive, consolidate, and reason across language, vision, and structured data.
 
 
-If you are interested in my work or potential collaboration, feel free to email me at <zkang5051@gmail.com>.
+📩 If you are interested in my work or potential collaboration, feel free to email me at <zkang5051@gmail.com>.
 
 
 # 🔥 News
@@ -268,7 +270,7 @@ function showFullPubs() {
 
 
 # 📖 Educations
-- *2022.08 – 2025.06*, M.Sc., Computer Science and Technology, University of Chinese Academy of Sciences (UCAS). Advisor: [Prof. Le Sun](http://lsun.nlp.iscas.ac.cn/).
+- *2022.08 – 2025.06*, M.Sc., Computer Science and Technology, University of Chinese Academy of Sciences (UCAS). Advisor: Prof. Le Sun.
 - *2018.08 – 2022.06*, B.S., Software Engineering (Elite Class), Wuhan University of Technology (WHUT). **GPA: 3.9/4.0 (91.14/100).**
 
 
@@ -282,4 +284,4 @@ function showFullPubs() {
 
 # 🎨 Hobbies
 
-Outside research, I enjoy playing the piano 🎹 (Grade 10 Certification), staying active through fitness 🏋️, badminton 🏸, tennis 🎾, and keeping up with good books 📚. If you share any of these interests, feel free to reach out — always happy to connect!
+Outside of research, I enjoy playing the piano 🎹 (Grade 10 Certification), staying active through fitness 🏋️, badminton 🏸, tennis 🎾, and keeping up with good books 📚. If you share any of these interests, feel free to reach out — always happy to connect!
