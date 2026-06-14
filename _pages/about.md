@@ -111,9 +111,12 @@ redirect_from:
 
 Hi, I am Chunkang Zhang (张淳慷). I obtained my M.Sc. degree from the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Le Sun](http://lsun.nlp.iscas.ac.cn/). I received my B.S. degree in Software Engineering (Elite Class) from [Wuhan University of Technology (WHUT)](https://english.whut.edu.cn/).
 
+
 My research interests include **Agentic Memory**, **Retrieval-Augmented Generation (RAG)**, **Long-Context Comprehension**, and **LLM Alignment**. I work closely with [Jialong Tang](https://tangjialong.github.io/) and [Chulun Zhou](https://encyclomen.github.io/) at [Qwen](https://qwenlm.github.io/), Alibaba. I also enjoyed close collaboration with [Mo Yu](https://sites.google.com/site/moyunlp/) at Hunyuan, Tencent.
 
+
 I believe that true intelligence requires not just reasoning, but **remembering** — forming structured, evolving knowledge from raw experience. My ongoing work centers on **OmniModal Memory**: extending agentic memory beyond text into a unified, modality-agnostic framework where agents can perceive, consolidate, and reason across language, vision, and structured data.
+
 
 If you are interested in my work or potential collaboration, feel free to email me at <zkang5051@gmail.com>.
 
