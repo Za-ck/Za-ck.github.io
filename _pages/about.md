@@ -128,7 +128,7 @@ Hi, I am Chunkang Zhang (张淳慷).
 <div class="news-container" markdown="1">
 
 - \[2026.05\] 🎉🎉 [HGMem](https://arxiv.org/abs/2512.23959) is accepted at **ICML 2026**!
-- \[2026.05\] 🎉🎉 [Self-Jailbreak](https://arxiv.org/abs/2510.21285) is accepted at **ACL 2026 Findings**.
+- \[2026.05\] 🎉🎉 [Self-Jailbreak](https://arxiv.org/abs/2510.21285) is accepted at **ACL 2026 Findings**！
 - \[2026.01\] 🏅 [HGMem](https://arxiv.org/abs/2512.23959) is featured as **#1 Paper of the Day** on [Hugging Face](https://huggingface.co/papers/2512.23959)!
 - \[2025.12\] 📄 [HGMem](https://arxiv.org/abs/2512.23959) is released on arXiv — a hypergraph-based working memory mechanism for multi-step RAG.
 - \[2025.10\] 📄 [Self-Jailbreak](https://arxiv.org/abs/2510.21285) is released on arXiv — unveiling and mitigating self-jailbreak risks in Large Reasoning Models.
