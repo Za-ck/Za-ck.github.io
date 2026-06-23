@@ -184,14 +184,6 @@ Hi, I am Chunkang Zhang (张淳慷).
 </div>
 </div>
 
-**[ChameleonInstruct: Teaching Machines to Reason via Chameleon Game]()**
-
-**Chunkang Zhang**, <span style="color:#999">Yaojie Lu, Hongyu Lin, Cao Liu, Xinyan Guan, Ke Zeng, Guanglu Wan, et al.</span>
-
-*Under Review*
-</div>
-
-<div class="pub-item" markdown="1">
 <!-- ── FULL LIST ONLY (hidden until "Full List" clicked) ─────────── -->
 
 <div class="full-only">
