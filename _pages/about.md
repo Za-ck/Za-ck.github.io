@@ -111,7 +111,7 @@ redirect_from:
 
 Hi, I am Chunkang Zhang (张淳慷).  
 
-🎓 I obtained my M.Sc. degree from the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Le Sun](https://www.icip.org.cn/team/sunle/) and [Prof. Yaojie Lu](https://yaojie.lu/). I received my B.S. degree in Software Engineering (Elite Class) from [Wuhan University of Technology (WHUT)](https://english.whut.edu.cn/).
+🎓 I obtained my master degree from the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Le Sun](https://www.icip.org.cn/team/sunle/) and [Prof. Yaojie Lu](https://yaojie.lu/). I received my B.S. degree in Software Engineering (Elite Class) from [Wuhan University of Technology (WHUT)](https://english.whut.edu.cn/).
 
 
 🔬 My research interests include **Agentic Memory**, **Retrieval-Augmented Generation (RAG)**, **Long-Context Comprehension**, and **LLM Alignment**. I work closely with [Jialong Tang](https://tangjialong.github.io/) and [Chulun Zhou](https://encyclomen.github.io/) at Qwen, Alibaba. I also enjoyed close collaboration with [Mo Yu](https://sites.google.com/site/moyunlp/) at Hunyuan, Tencent.
