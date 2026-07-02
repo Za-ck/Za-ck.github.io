@@ -103,6 +103,22 @@ redirect_from:
 .timeline-title { font-weight: 600; font-size: 15px; color: #333; }
 .timeline-desc { font-size: 14px; color: #666; }
 
+/* 新增的独立会议标签样式 */
+.conf-badge {
+  display: inline-block;
+  padding: 2px 8px;
+  margin-right: 8px;
+  background-color: #f6f8fa;
+  color: #57606a;
+  border: 1px solid #d0d7de;
+  border-radius: 6px;
+  font-size: 13px;
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+  font-weight: 500;
+  vertical-align: middle;
+  line-height: 1.2;
+}
+
 @media (max-width: 600px) {
   .news-container { max-height: 260px; padding-right: 12px; }
   .pub-toggle-btn { min-height: 32px; padding: 7px 13px; }
@@ -151,10 +167,10 @@ Hi, I am Chunkang Zhang (张淳慷).
 
 <!-- ── SELECTED (always visible) ────────────────────────────────── -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/hgmem.png' alt="HGMem" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/hgmem.png' alt="HGMem" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[HGMem: Hypergraph-based Working Memory to Improve Multi-step RAG for Long-Context Complex Relational Modeling](https://arxiv.org/abs/2512.23959)
+<span class="conf-badge">ICML 2026</span> [HGMem: Hypergraph-based Working Memory to Improve Multi-step RAG for Long-Context Complex Relational Modeling](https://arxiv.org/abs/2512.23959)
 
 <span style="color:#999">Chulun Zhou</span>\*, **Chunkang Zhang**\*, <span style="color:#999">Guoxin Yu, Fandong Meng, Jie Zhou, Wai Lam, Mo Yu</span>
 
@@ -162,10 +178,10 @@ Hi, I am Chunkang Zhang (张淳慷).
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src='images/selfjailbreak.png' alt="Self-Jailbreak" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/selfjailbreak.png' alt="Self-Jailbreak" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[When Models Outthink Their Safety: Unveiling and Mitigating Self-Jailbreak in Large Reasoning Models](https://arxiv.org/abs/2510.21285)
+<span class="conf-badge">ACL 2026 Findings</span> [When Models Outthink Their Safety: Unveiling and Mitigating Self-Jailbreak in Large Reasoning Models](https://arxiv.org/abs/2510.21285)
 
 <span style="color:#999">Yingzhi Mao</span>\*, **Chunkang Zhang**\*, <span style="color:#999">Junxiang Wang, Xinyan Guan, Boxi Cao, Yaojie Lu, et al.</span>
 
@@ -173,10 +189,10 @@ Hi, I am Chunkang Zhang (张淳慷).
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/autoalign.png' alt="AUTOALIGN" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/autoalign.png' alt="AUTOALIGN" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AUTOALIGN: Get Your LLM Aligned with Minimal Annotations](https://aclanthology.org/2025.acl-demo.19/)
+<span class="conf-badge">ACL 2025</span> [AUTOALIGN: Get Your LLM Aligned with Minimal Annotations](https://aclanthology.org/2025.acl-demo.19/)
 
 <span style="color:#999">Xinyu Lu</span>\*, <span style="color:#999">Dong Xu</span>\*, **Chunkang Zhang**\*, <span style="color:#999">Xinyan Guan, Junxiang Wang, Qingyu Zhang, et al.</span>
 
@@ -190,47 +206,37 @@ Hi, I am Chunkang Zhang (张淳慷).
 
 <div class="pub-item" markdown="1">
 
-**[Investigating Reasoning Models in Retrieval-Augmented Generation]()**
+<span class="conf-badge">Under Review</span> **[Investigating Reasoning Models in Retrieval-Augmented Generation]()**
 
 <span style="color:#999">Xinyan Guan, Jiali Zeng, Fandong Meng,</span> **Chunkang Zhang**, <span style="color:#999">Yaojie Lu, Hongyu Lin, et al.</span>
-
-*Under Review*
 </div>
 
 <div class="pub-item" markdown="1">
 
-**[ChameleonInstruct: Teaching Machines to Reason via Chameleon Game]()**
+<span class="conf-badge">Under Review</span> **[ChameleonInstruct: Teaching Machines to Reason via Chameleon Game]()**
 
 **Chunkang Zhang**, <span style="color:#999">Yaojie Lu, Hongyu Lin, Cao Liu, Xinyan Guan, Ke Zeng, Guanglu Wan, et al.</span>
-
-*Under Review*
 </div>
 
 <div class="pub-item" markdown="1">
 
-**[Influence of External Information on Large Language Models Mirrors Social Cognitive Patterns](https://ieeexplore.ieee.org/)**
+<span class="conf-badge">IEEE TCSS 2025</span> **[Influence of External Information on Large Language Models Mirrors Social Cognitive Patterns](https://ieeexplore.ieee.org/)**
 
 <span style="color:#999">Ning Bian, Hongyu Lin, Peilin Liu, Yaojie Lu,</span> **Chunkang Zhang**, <span style="color:#999">Ben He, Xianpei Han, Le Sun</span>
-
-*IEEE TCSS 2025*
 </div>
 
 <div class="pub-item" markdown="1">
 
-**[Pattern Shifting or Knowledge Losing? A Forgetting Perspective for Understanding the Effect of Instruction Fine-Tuning]()**
+<span class="conf-badge">CCL 2024</span> **[Pattern Shifting or Knowledge Losing? A Forgetting Perspective for Understanding the Effect of Instruction Fine-Tuning]()**
 
 **Chunkang Zhang**, <span style="color:#999">Boxi Cao, Yaojie Lu, Hongyu Lin, Cao Liu, Ke Zeng, Guanglu Wan, et al.</span>
-
-*CCL 2024*
 </div>
 
 <div class="pub-item" markdown="1">
 
-**[A Non-Autoregressive Network for Chinese Text to Speech and Voice Cloning]()**
+<span class="conf-badge">ICAICA 2021</span> **[A Non-Autoregressive Network for Chinese Text to Speech and Voice Cloning]()**
 
 **Chunkang Zhang**, <span style="color:#999">Yueqing Cai, Wenbi Rao</span>
-
-*ICAICA 2021*
 </div>
 
 </div><!-- end full-only -->
