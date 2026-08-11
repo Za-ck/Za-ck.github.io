@@ -127,13 +127,13 @@ redirect_from:
 
 Hi, I am Chunkang Zhang (张淳慷).  
 
-🎓 I obtained my master degree from the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Le Sun](https://www.icip.org.cn/team/sunle/) and [Prof. Yaojie Lu](https://yaojie.lu/). I received my B.S. degree in Software Engineering (Elite Class) from [Wuhan University of Technology (WHUT)](https://english.whut.edu.cn/).
+🎓 I obtained my master's degree from the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Le Sun](https://www.icip.org.cn/team/sunle/) and [Prof. Yaojie Lu](https://yaojie.lu/). 
 
 
-🔬 My research interests include **Agentic Memory**, **Retrieval-Augmented Generation (RAG)**, **Long-Context Comprehension**, and **LLM Alignment**. I work closely with [Jialong Tang](https://tangjialong.github.io/) and [Chulun Zhou](https://encyclomen.github.io/) at Qwen, Alibaba. I also enjoyed close collaboration with [Mo Yu](https://sites.google.com/site/moyunlp/) at Hunyuan, Tencent.
+🔬 My research interests include **Agentic Memory**, **Retrieval-Augmented Generation (RAG)**, **Long-Context Comprehension**, and **Omni modal LLM**. I work closely with [Jialong Tang](https://tangjialong.github.io/) and [Chulun Zhou](https://encyclomen.github.io/) at Qwen, Alibaba. I also enjoyed close collaboration with [Mo Yu](https://sites.google.com/site/moyunlp/) at Hunyuan, Tencent.
 
 
-💡 I believe that true intelligence requires not just reasoning, but **remembering** — forming structured, evolving knowledge from raw experience. My ongoing work centers on **OmniModal Memory**: extending agentic memory beyond text into a unified, modality-agnostic framework where agents can perceive, consolidate, and reason across language, vision, and structured data.
+💡 I believe that true intelligence requires not just reasoning, but **remembering** — forming structured, evolving knowledge from raw experience. 
 
 
 📩 If you are interested in my work or potential collaboration, feel free to email me at <zkang5051@gmail.com>.
@@ -257,18 +257,18 @@ function showFullPubs() {
 </script>
 
 
-# 💼 Experience
+# 💼 Research Experience
 
 <div class="timeline">
   <div class="timeline-item current">
     <div class="timeline-date">2025.06 – present</div>
-    <div class="timeline-title">WeChat AI, Tencent</div>
-    <div class="timeline-desc">Work closely with <a href="https://sites.google.com/site/moyunlp/">Mo Yu</a> and <a href="https://encyclomen.github.io/">Chulun Zhou</a> (CUHK)</div>
+    <div class="timeline-title">Research Collabration, WeChat AI, Tencent</div>
+    <div class="timeline-desc">Work closely with <a href="https://sites.google.com/site/moyunlp/">Mo Yu</a> and <a href="https://encyclomen.github.io/">Chulun Zhou</a></div>
     <div class="timeline-desc">Developed HGMem — a hypergraph-based working memory framework for multi-step RAG.</div>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2023.08 – 2024.10</div>
-    <div class="timeline-title">Large Language Model Group, Meituan</div>
+    <div class="timeline-title">Intern, Longcat Interaction Team, Meituan</div>
     <div class="timeline-desc">Advisor: Cao Liu</div>
     <div class="timeline-desc">Contributed to the LongCat series, focusing on long-context capability and complex instruction following.</div>
   </div>
