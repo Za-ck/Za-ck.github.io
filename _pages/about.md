@@ -130,7 +130,7 @@ Hi, I am Chunkang Zhang (张淳慷).
 🎓 I obtained my master's degree from the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Le Sun](https://www.icip.org.cn/team/sunle/) and [Prof. Yaojie Lu](https://yaojie.lu/). 
 
 
-🔬 My research interests include **Agentic Memory**, **Retrieval-Augmented Generation (RAG)**, **Long-Context Comprehension**, and **Omni modal LLM**. I work closely with [Jialong Tang](https://tangjialong.github.io/) and [Chulun Zhou](https://encyclomen.github.io/) at Qwen, Alibaba. I also enjoyed close collaboration with [Mo Yu](https://sites.google.com/site/moyunlp/) at Hunyuan, Tencent.
+🔬 My research interests include **Agentic Memory**, **Retrieval-Augmented Generation (RAG)**, **Long-Context Comprehension**, and **Omni modal LLM**. I work closely with [Jialong Tang](https://tangjialong.github.io/) at Qwen, Alibaba. I also enjoyed close collaboration with [Mo Yu](https://sites.google.com/site/moyunlp/) at Hunyuan, Tencent.
 
 
 💡 I believe that true intelligence requires not just reasoning, but **remembering** — forming structured, evolving knowledge from raw experience. 
@@ -263,7 +263,7 @@ function showFullPubs() {
   <div class="timeline-item current">
     <div class="timeline-date">2025.06 – present</div>
     <div class="timeline-title">Research Collabration, WeChat AI, Tencent</div>
-    <div class="timeline-desc">Work closely with <a href="https://sites.google.com/site/moyunlp/">Mo Yu</a> and <a href="https://encyclomen.github.io/">Chulun Zhou</a></div>
+    <div class="timeline-desc">Work closely with <a href="https://sites.google.com/site/moyunlp/">Mo Yu</a> </div>
     <div class="timeline-desc">Developed HGMem — a hypergraph-based working memory framework for multi-step RAG.</div>
   </div>
   <div class="timeline-item">
